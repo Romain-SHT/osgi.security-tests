@@ -35,7 +35,7 @@ import org.osgi.security.test.api.OSGiSecurityTestRunner;
  * and prints a string without using standard System.out.println() JAVA API 
  * function.
  * 
- **/
+ */
 
 @RunWith(OSGiSecurityTestRunner.class)
 public class Code01Test {
